@@ -1,0 +1,8 @@
+.next
+node_modules
+pages
+public
+styles
+.prettier.js
+package.json
+yarn.lock
