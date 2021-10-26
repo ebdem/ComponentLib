@@ -1,8 +1,10 @@
 .next
+.idea
 node_modules
 pages
 public
 styles
+.DS_Store
 .prettier.js
 package.json
 yarn.lock
